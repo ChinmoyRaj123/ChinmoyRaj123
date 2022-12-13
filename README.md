@@ -14,6 +14,34 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+ <!--  right side image -->
+<img align="left" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1670910273~exp=1670910873~hmac=27f6f026dc3aa81e33347bdaa7b8572e0b3135d71fa9b2bdd1f7ddc324be2153"  width="380" height="350">
+
+<!--  A paragraph about me -->
+_Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, Php, Python. You can connect with me on social media, I would love to have you in my life._  
+
+ <!--  Social Media Links -->
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/chinmoy_raj/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/chinmoy-raj-deka-63a6b0129/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"></a>
+    </td>
+   <td align='center' width="60">
+        <a href="mailto:rajchinmoy007@gmail.com"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" width="60"></a>
+   </td>
+</tr>
+</table>
+</p>
+
+</br>
+ 
+ </br>
+ 
  
  <h2 align='center'><i>Languages and Tools</i></h2>
 
