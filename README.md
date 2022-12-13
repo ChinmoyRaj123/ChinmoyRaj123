@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- GithubStats -->
- ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark)
+<!--  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark) -->
  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact)
