@@ -1,9 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 
-**ChinmoyRaj123/ChinmoyRaj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChinmoyRaj123/ChinmoyRaj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
-<!-- GithubStats -->
-<!--  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark) -->
- ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact)
  
  <h2 align='center'><i>Languages and Tools</i></h2>
 
@@ -81,3 +78,7 @@ Here are some ideas to get you started:
 </table>
 
 </br>
+
+<!-- GithubStats -->
+<!--  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark) -->
+ ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact)
