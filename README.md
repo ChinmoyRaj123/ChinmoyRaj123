@@ -15,13 +15,19 @@
 - ⚡ Fun fact: ... -->
 
  <!--  right side image -->
-<img align="left" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1670910273~exp=1670910873~hmac=27f6f026dc3aa81e33347bdaa7b8572e0b3135d71fa9b2bdd1f7ddc324be2153"  width="300" height="300">
+<!-- <img align="left" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1670910273~exp=1670910873~hmac=27f6f026dc3aa81e33347bdaa7b8572e0b3135d71fa9b2bdd1f7ddc324be2153"  width="300" height="300"> -->
 
 <!--  A paragraph about me -->
-_Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, Php, Python. You can connect with me on social media, I would love to have you in my life._  
-</br>
-</br>
-</br>
+<table>
+ <tr>
+  <td width="300">
+   <img align="left" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1670910273~exp=1670910873~hmac=27f6f026dc3aa81e33347bdaa7b8572e0b3135d71fa9b2bdd1f7ddc324be2153"  width="300" height="300">
+  </td>
+  <td>
+   <em>Hello, this is <strong>Chinmoy Raj Deka</strong>. A <strong>Full Stack Developer, Data Science & Machine Learning Enthusiast</strong>. You can see my work down below. I love to code in Javascript & Typescript, Php, Python. You can connect with me on social media, I would love to have you in my life.</em>
+  </td>
+  </tr>
+ </table>
 </br>
 
  <!--  Social Media Links -->
@@ -55,18 +61,18 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
  
 <h2 align='left'><i>Languages and Tools</i></h2>
 </br>
-<table width="100" align='left'>
-<tr height='70'>
-    <td align='center' width="190">
+<table align='left'>
+<tr height='80'>
+    <td align='center' width="225">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="225">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="225">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" >
     </td>
-     <td align='center' width="190" background-color="white">
+     <td align='center' width="225" background-color="white">
         <img src="https://miro.medium.com/max/800/1*fKV3_Y4usDYZKPsNp1yCvA.png">
     </td>
 </tr>
@@ -77,7 +83,7 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-  <td align='center' width="190">
+  <td align='center' width="225">
         <img src="https://miro.medium.com/max/1000/1*kQ11_TLArd7xGuWiSomBSg.png">
     </td>
   <td align='center'>
@@ -100,16 +106,16 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
    
 </tr>
  <tr>
-    <td align='center' width="190">
+    <td align='center' width="225">
         <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="60">
   </td>
-    <td align='center' width="190">
+    <td align='center' width="225">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="60">
     </td>
-     <td align='center' width="190">
+     <td align='center' width="225">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" width="60">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="225">
         <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png">
     </td>
 </tr>
@@ -119,7 +125,7 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 
 <!-- GithubStats -->
 <!--  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark) -->
- <table width="100" align='left'>
+ <table align='left'>
 <tr>
     <td align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact">
