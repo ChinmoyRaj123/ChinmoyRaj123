@@ -124,5 +124,8 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
     <td align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact">
     </td>
+  <td align='center'>
+        <img src="https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark">
+    </td>
 </tr>
  </table>
