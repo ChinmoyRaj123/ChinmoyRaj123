@@ -44,7 +44,7 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 </br> 
 </br>
 
-<h2 align='center'><i> Currently Working</i></h2>
+<h2 align='left'><i> Currently Working</i></h2>
 - Developing No-Code OTT solution at Right Hemisphere, Guwahati, Assam, India
 
 
@@ -53,9 +53,9 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 
  
  
-<h2 align='center'><i>Languages and Tools</i></h2>
-
-<table width="100" align='center'>
+<h2 align='left'><i>Languages and Tools</i></h2>
+</br>
+<table width="100" align='left'>
 <tr height='70'>
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60">
@@ -119,7 +119,7 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 
 <!-- GithubStats -->
 <!--  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark) -->
- <table width="100" align='center'>
+ <table width="100" align='left'>
 <tr>
     <td align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact">
