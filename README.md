@@ -44,12 +44,12 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 </br> 
 </br>
 
-<!-- <h2 align='center'><i>Currently Working</i></h2>
-
+<h2 align='center'><i> Currently Working</i></h2>
+- Developing No-Code OTT solution at Right Hemisphere, Guwahati, Assam, India
 
 
 </br>
-</br> -->
+</br>
 
  
  
