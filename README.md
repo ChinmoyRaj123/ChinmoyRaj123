@@ -15,10 +15,14 @@
 - ⚡ Fun fact: ... -->
 
  <!--  right side image -->
-<img align="left" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1670910273~exp=1670910873~hmac=27f6f026dc3aa81e33347bdaa7b8572e0b3135d71fa9b2bdd1f7ddc324be2153"  width="380" height="350">
+<img align="left" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1670910273~exp=1670910873~hmac=27f6f026dc3aa81e33347bdaa7b8572e0b3135d71fa9b2bdd1f7ddc324be2153"  width="300" height="300">
 
 <!--  A paragraph about me -->
 _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, Php, Python. You can connect with me on social media, I would love to have you in my life._  
+</br>
+</br>
+</br>
+</br>
 
  <!--  Social Media Links -->
 <h3 align='center'><i>Social Media Handles</i></h3>
