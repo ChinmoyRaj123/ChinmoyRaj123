@@ -41,13 +41,19 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 </tr>
 </table>
 </p>
+</br> 
+</br>
+
+<!-- <h2 align='center'><i>Currently Working</i></h2>
+
+
 
 </br>
+</br> -->
+
  
- </br>
  
- 
- <h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='center'><i>Languages and Tools</i></h2>
 
 <table width="100" align='center'>
 <tr height='70'>
@@ -113,4 +119,10 @@ _Hello, this is **Chinmoy Raj Deka**. A **Full Stack Developer, Data Science & M
 
 <!-- GithubStats -->
 <!--  ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api?username=ChinmoyRaj123&show_icons=true&theme=dark) -->
- ![ChinmoyRaj123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact)
+ <table width="100" align='center'>
+<tr>
+    <td align='center'>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyRaj123&theme=dark&layout=compact">
+    </td>
+</tr>
+ </table>
